@@ -1,61 +1,74 @@
 # Hi, I'm Bilal Shaikh 👋
 
 ### About Me 🎯
-Software Engineer with a passion for creating user-focused applications and scalable systems. With experience in full-stack development, CI/CD pipelines, and cloud services like AWS and Azure, I strive to build impactful solutions that simplify workflows and enhance user experience.
+Backend Software Engineer passionate about building high-performance, scalable systems. I specialize in C#, .NET, and SQL with a strong focus on backend architecture, systems-level design, and cloud-based microservices. I've built infrastructure used by major U.S. airports and developed Redis/Kafka clones as personal projects to deepen my systems knowledge.
 
 ## 🔨 Current Work
-- Software Engineer at Brock Solutions, developing high-impact applications with React, C#, and Azure.
-- Focused on optimizing file management systems, microservices, and deployment processes for 100,000+ users.
+- Software Engineer at Brock Solutions, building robust backend systems supporting over 300 million passengers annually.
+- Focused on concurrency optimization, performance tuning, and microservice architecture using .NET 8 and Azure.
 
 ## 🛠️ Technologies
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Frameworks & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## 💻 Experience
 
 ### Brock Solutions
-- Built a file management system using React, C#, and Azure, reducing file handling time by 30%.
-- Integrated a custom PDF viewer, saving $14,000+ annually and improving functionality for 1,500+ users.
-- Developed CI/CD pipelines for seamless deployment to over 100,000 active users.
+**Software Engineer** | Jul 2023 – Present  
+- Engineered backend systems for baggage handling across 40+ U.S. airports.
+- Redesigned .NET services to improve concurrency, cutting flight event processing time by 40%.
+- Optimized SQL queries and indexes, halving execution time in production.
+- Migrated microservices to .NET 8 and Azure, enhancing observability and resilience.
+- Built CI/CD pipelines in Azure DevOps for zero-downtime deployments.
 
 ### RBC
-- Automated audit workflows in ServiceNow using JavaScript and SQL, saving 50+ hours monthly for 12,000+ employees.
-- Integrated Splunk for faster data retrieval, reducing access times by 27%.
+**Software Engineer Intern** | May 2022 – Aug 2022  
+- Automated audit workflows in C#, eliminating 50+ hours/month of manual work.
+- Refactored SQL procedures for dashboards, improving performance by 25%.
+- Implemented structured logging and validation for backend services.
 
 ### Loadlink Technologies
-- Revamped a load-matching app’s front-end with Angular, boosting user engagement by 27%.
-- Created a notification system via REST APIs, cutting average item listing times by 9 days.
+**Software Engineer Intern** | May 2021 – Aug 2021  
+- Improved backend matching logic in C#, reducing API response times by 32%.
+- Created RESTful services to sync freight data, enhancing system uptime.
+- Automated SQL workflows, saving 30+ hours/week.
+
+### Pulse Lifesavings
+**Software Engineer Intern** | May 2020 – Aug 2020  
+- Built a CPR training simulator using Unity and C#, increasing accuracy by 67%.
+- Reduced trainee session times by 30% via adaptive feedback loops.
 
 ## 🚀 Featured Projects
 
-### [Fish Spot](https://github.com/BilalShakh/4WW3Project)
-A full-stack app for fishing enthusiasts to share and discover fishing spots.
-- Built with **Node.js**, **React**, **AWS EC2**, and **AWS S3**.
-- Enabled secure file uploads for 100+ images/videos and ensured 99% uptime during beta testing.
-- Connected 150+ users in the beta phase.
+### [Redis Clone](https://github.com/BilalShakh/Redis)
+- Built an in-memory key-value store with pipelined TCP processing, pub/sub, and persistence.
+- Designed thread-safe structures and command parsing for concurrent client access.
+
+### [Kafka Clone](https://github.com/BilalShakh/Kafk)
+- Developed a distributed message broker with partitioned topics and fault-tolerant persistence.
+- Engineered async producer-consumer pipelines simulating high-throughput delivery.
+
+## 🎓 Education
+**McMaster University** – B.Eng in Software Engineering  
+- Major GPA: 3.71  
+- Courses: Data Structures, Algorithms, Security Analysis, Quantitative Analysis
 
 ## 📫 Connect
 - [LinkedIn](https://linkedin.com/in/bilal-shakh/)
 - [Portfolio](https://bilalshakh.com/)  
 - [GitHub](https://github.com/BilalShakh)  
-- Email: bilalzaki92@gmail.com  
-
-## 🎓 Education
-**McMaster University**  
-- Bachelor of Engineering in Software Engineering (2023)  
-- Major GPA: 3.71  
-- Courses: Security Analysis, Quantitative Analysis, Data Structures, and Algorithms  
+- 📧 bilalzaki92@gmail.com  
